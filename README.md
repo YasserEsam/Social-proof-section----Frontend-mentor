@@ -13,7 +13,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]( https://yasseresam.github.io/Social-proof-section----Frontend-mentor/)
 
 
 ### The Challenge
@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Social Proof Section coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Social Proof Section coding challenge](./)
 
 
 ## Built With
